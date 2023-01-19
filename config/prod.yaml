@@ -1,0 +1,5 @@
+env: prod
+app:
+  hostname: http://etnasys.com/service/subscriptionManagement
+  port: 4200
+logLevel: info

@@ -1,0 +1,11 @@
+env: dev
+app:
+  hostname: localhost
+  port: 4000
+db:
+  hostname: localhost
+  port: 5432
+  database: SMS_DEV
+  username: postgres
+  password: admin
+logLevel: info
